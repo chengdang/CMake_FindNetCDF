@@ -1,0 +1,2 @@
+FindNetCDF_A.cmake: https://github.com/jedbrown/cmake-modules
+FineNetCDF_B.cmake: https://gitlab.kitware.com/vtk/vtk/-/blob/master/CMake/FindNetCDF.cmake
